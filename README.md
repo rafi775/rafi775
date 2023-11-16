@@ -1,15 +1,3 @@
-## :eyes: Current overview
-
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
-
-### 🔭 I'm currently engaged in a personal project at home. 
-### 🌱 Delving into cutting-edge technologies to broaden my skill set. 
-### 👯I'm actively learning and exploring various new technologies
-### ⚡ Interestingly, I enjoy collaborating with people from different countries, and I'm fluent in five languages 
-
-<br />
 
 <!--
 **rafi775/rafi775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,11 +35,19 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## :eyes: Current overview
 
-###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+### 🔭 I'm currently engaged in a personal project at home. 
+### 🌱 Delving into cutting-edge technologies to broaden my skill set. 
+### 👯I'm actively learning and exploring various new technologies
+### ⚡ Interestingly, I enjoy collaborating with people from different countries, and I'm fluent in five languages 
+
+<br />
+
+
+
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
